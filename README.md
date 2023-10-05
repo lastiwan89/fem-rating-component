@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitRepository](https://github.com/lastiwan89/fem-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://main--loquacious-phoenix-54bcfd.netlify.app/)
 
 ## My process
 
